@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @reema982
 - 👀 I’m interested in cybersecurity 
-- 🌱 I’m currently learning ethical hackinh
-- 
+- 🌱 I’m currently learning ethical hacking
+
   
 
 <!---
