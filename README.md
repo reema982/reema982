@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reema982
-- 👀 I’m interested in cybersecurity 
-- 🌱 I’m currently learning ethical hacking
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning cloud computing
 
   
 
